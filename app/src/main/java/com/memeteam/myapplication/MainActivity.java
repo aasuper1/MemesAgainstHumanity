@@ -1,4 +1,4 @@
-package com.memeteam.memedisplay;
+package com.memeteam.myapplication;
 import android.graphics.drawable.Drawable;
 import android.media.Image;
 import android.service.dreams.DreamService;
